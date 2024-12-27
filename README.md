@@ -13,3 +13,6 @@ Everything you do here is contained within this one codespace. There is no repos
 to open palette: CTRL+SHIFT+P
 
 then: Rebuild Container
+
+
+sudo su logs in as root without askinf for a password
