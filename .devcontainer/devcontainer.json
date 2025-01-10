@@ -14,8 +14,7 @@
       "extensions": [
         "ms-toolsai.jupyter",
         "ms-python.python",
-        "moshfeu.diff-merge",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "moshfeu.diff-merge"
       ]
     }
   }
