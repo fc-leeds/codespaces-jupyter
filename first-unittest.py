@@ -1,6 +1,7 @@
-# q
-# to compile: python -m py_compile first-unittest.py 123
-
+# to compile
+# python -m py_compile first-unittest.py 123
+# to run 
+# python __pycache__/first-unittest.cpython-312.pyc
 
 import unittest
 #test
