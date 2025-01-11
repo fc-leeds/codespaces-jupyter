@@ -1,5 +1,5 @@
 # to compile
-# python -m py_compile first-unittest.py 123
+# python -m py_compile first-unittest.py
 # to run 
 # python __pycache__/first-unittest.cpython-312.pyc
 
