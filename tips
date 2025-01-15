@@ -1,0 +1,11 @@
+From the CS terminal, run code /workspaces/foo
+
+A new tab will open up with /workspaces/foo as the root (sometimes you have to run it twice)
+
+code $HOME or code ~ works too
+
+code *.md also works
+
+If you get a popup in your original window, just click cancel.
+
+On our current project, we clone 8 different repos to /workspaces and change between them often. It works really well (almost all the time - an occasional "wierd" behavior)
