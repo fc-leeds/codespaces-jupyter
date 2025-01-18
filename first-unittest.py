@@ -1,4 +1,4 @@
-# to compile
+# to compile q
 # python -m py_compile first-unittest.py
 # to run 
 # python __pycache__/first-unittest.cpython-312.pyc
